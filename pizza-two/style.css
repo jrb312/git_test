@@ -1,0 +1,23 @@
+
+h1 {
+    color: whitesmoke;
+    font-size: 48px;
+    text-align: center;
+    font-weight: bold;
+    font-style: ;
+    font-family: Futura;
+    background-color: #BB0000;    
+}
+h2 {
+    color: whitesmoke;
+
+    text-align: center;
+    font-weight: bold;
+    font-style: ;
+    font-family: Futura;
+    background-color: #666666;
+}
+
+body {
+    background-color: whitesmoke;
+}
